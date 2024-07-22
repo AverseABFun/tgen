@@ -91,6 +91,17 @@ func GetHashFromWords(words []string) int64 {
 	return vertex
 }
 
+func SafeGetHashFromWords(words []string) (int64, bool) {
+	var vertex int64 = 0
+	for _, val := range words {
+		if !HasChild(vertex, val) {
+			return vertex, false
+		}
+		vertex = GetChildsHash(val, vertex)
+	}
+	return vertex, true
+}
+
 func HasChild(parent int64, word string) bool {
 	var nodes = GetEdgesFromParent(parent)
 	for _, node := range nodes {
@@ -115,22 +126,47 @@ func NumChildrenWithWord(parent int64, word string) int {
 	return num
 }
 
-func SuggestWord(previousWords []string) string {
-
+func SuggestWord(previousWords []string, i int) string {
+	fmt.Println("single word", i)
+	if i >= 100 {
+		return ""
+	}
 	var vertex = ""
 	var successful = false
+	var _, safe = SafeGetHashFromWords(previousWords)
+	if !safe {
+		fmt.Println("Not safe, removing last word")
+		return SuggestWord(previousWords[:len(previousWords)-1], i+1)
+	}
 	g.BFS(GetHashFromWords(previousWords), func(v int64) bool {
 		var nextWords = g.From(v)
 		// weight is 0-100%, probability of word being selected
 
 		var selected graph.Node = nil
+		var iterations = 0
+		if nextWords.Len() == 0 {
+			selected = g.NewNode()
+			var node, _ = SafeGetHashFromWords(previousWords)
+			var iter = 1
+			for g.From(node).Len() < 2 {
+				node = GetParent(node)
+				iter += 1
+			}
+			g.SetData(selected.ID(), SuggestWord(previousWords[:len(previousWords)-iter], i+1))
+		}
 		for selected == nil {
+			iterations++
+			nextWords.Reset()
 			for nextWords.Next() {
 				var node = nextWords.Node()
 				var weight64, ok = g.Weight(v, node.ID())
 				var weight = int(weight64)
 				if !ok {
 					weight = 100
+				}
+				if iterations >= 100 {
+					selected = node
+					break
 				}
 				if rand.Int()%100 < weight {
 					selected = node
@@ -150,7 +186,7 @@ func SuggestWord(previousWords []string) string {
 		return ""
 	}
 	if !successful {
-		return SuggestWord(previousWords[:len(previousWords)-1])
+		return SuggestWord(previousWords[:len(previousWords)-1], i+1)
 	}
 	return vertex
 }
@@ -158,16 +194,17 @@ func SuggestWord(previousWords []string) string {
 func SuggestWords(previousWords []string, numWords int) []string {
 	var words []string
 	for i := 0; i < numWords; i++ {
-		var suggested = SuggestWord(previousWords)
+		var suggested = SuggestWord(previousWords, 0)
 		var iterations = 0
 		var notEnough = false
 		for contains(words, suggested) {
 			iterations++
+			fmt.Println(iterations)
 			if iterations > 100 {
 				notEnough = true
 				break
 			}
-			suggested = SuggestWord(previousWords)
+			suggested = SuggestWord(previousWords, iterations)
 		}
 		if notEnough {
 			break
@@ -175,6 +212,14 @@ func SuggestWords(previousWords []string, numWords int) []string {
 		words = append(words, suggested)
 	}
 	return words
+}
+
+func SuggestWordsAfterEachOther(previousWords []string, numWords int) []string {
+	for i := 0; i < numWords; i++ {
+		var output = SuggestWord(previousWords, 0)
+		previousWords = append(previousWords, output)
+	}
+	return previousWords
 }
 
 func GetParent(node int64) int64 {
@@ -302,10 +347,14 @@ func LoadGraph(f string) {
 	var str = string(data)
 	var nodes = strings.Split(str, "\n")
 	for _, node := range nodes {
+		if node == "" {
+			continue
+		}
 		var parts = strings.Split(node, ";")
 		var nodeData = strings.Split(parts[0], ":")
 		var id, interr = strconv.ParseInt(nodeData[0], 10, 64)
 		if interr != nil {
+			fmt.Println(node)
 			panic(interr)
 		}
 		var data = nodeData[1]
@@ -321,6 +370,9 @@ func LoadGraph(f string) {
 		g.SetData2(newNode.ID(), int64(data2))
 	}
 	for _, node := range nodes {
+		if node == "" {
+			continue
+		}
 		var parts = strings.Split(node, ";")
 		var lines = strings.Split(parts[1], "|")
 		var nodeData = strings.Split(parts[0], ":")
@@ -329,9 +381,13 @@ func LoadGraph(f string) {
 			panic(interr)
 		}
 		for _, line := range lines {
+			if line == "" {
+				continue
+			}
 			var lineData = strings.Split(line, ":")
 			lineID, interr := strconv.ParseInt(lineData[0], 10, 64)
 			if interr != nil {
+				fmt.Println(node)
 				panic(interr)
 			}
 			weight, interr := strconv.ParseFloat(lineData[1], 64)
@@ -443,11 +499,6 @@ func main() {
 	g = *NewMarkovGraph()
 	g.Init()
 
-	var root = g.NewNode()
-	g.AddNode(root)
-	ROOT_NODE = root.ID()
-
-	TrainFromFile("/run/media/averse/main/tgen/src/thelastquestion.txt")
-	SaveGraph("./question.mk")
-	fmt.Println(SuggestWord([]string{"the", "last"}))
+	LoadGraph("./question.chain")
+	fmt.Println(SuggestWordsAfterEachOther([]string{}, 10))
 }
