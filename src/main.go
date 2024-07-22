@@ -249,7 +249,11 @@ func SaveGraph(f string) {
 		var node = nodes.Node()
 		var data, ok = g.GetData(node.ID())
 		if !ok {
-			panic("Data not found")
+			if node.ID() == ROOT_NODE {
+				data = ""
+			} else {
+				panic("Data not found")
+			}
 		}
 		data2, ok := g.GetData2(node.ID())
 		if !ok {
