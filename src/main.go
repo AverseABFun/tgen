@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"math"
 	"math/rand"
@@ -131,7 +132,6 @@ func NumChildrenWithWord(parent int64, word string) int {
 }
 
 func SuggestWord(previousWords []string, i int) string {
-	fmt.Println("single word", i)
 	if i >= 100 {
 		return ""
 	}
@@ -139,7 +139,6 @@ func SuggestWord(previousWords []string, i int) string {
 	var successful = false
 	var _, safe = SafeGetHashFromWords(previousWords)
 	if !safe {
-		fmt.Println("Not safe, removing last word")
 		return SuggestWord(previousWords[:len(previousWords)-1], i+1)
 	}
 	g.BFS(GetHashFromWords(previousWords), func(v int64) bool {
@@ -156,7 +155,11 @@ func SuggestWord(previousWords []string, i int) string {
 				node = GetParent(node)
 				iter += 1
 			}
-			g.SetData(selected.ID(), SuggestWord(previousWords[:len(previousWords)-iter], i+1))
+			if iter > len(previousWords) {
+				g.SetData(selected.ID(), SuggestWord(previousWords, i+1))
+			} else {
+				g.SetData(selected.ID(), SuggestWord(previousWords[:len(previousWords)-iter], i+1))
+			}
 		}
 		for selected == nil {
 			iterations++
@@ -203,8 +206,7 @@ func SuggestWords(previousWords []string, numWords int) []string {
 		var notEnough = false
 		for contains(words, suggested) {
 			iterations++
-			fmt.Println(iterations)
-			if iterations > 100 {
+			if iterations > 10 {
 				notEnough = true
 				break
 			}
@@ -358,7 +360,6 @@ func LoadGraph(f string) {
 		var nodeData = strings.Split(parts[0], ":")
 		var id, interr = strconv.ParseInt(nodeData[0], 10, 64)
 		if interr != nil {
-			fmt.Println(node)
 			panic(interr)
 		}
 		var data = nodeData[1]
@@ -499,12 +500,31 @@ func GetChildsHash(value string, parent int64) int64 {
 	panic("No node found with value " + value + " and parent " + strconv.FormatInt(parent, 10))
 }
 
+var train_file = flag.String("train-file", "", "Provide a path to a text file for the markov chain to train off of the file")
+var save_file = flag.String("save-file", "", "Provide a path to save the markov chain to a file")
+var load_file = flag.String("load-file", "", "Provide a path to load the markov chain from a file")
+var generate = flag.Bool("generate", false, "Generate a sentence")
+var generate_num = flag.Int("generate-num", 5, "Number of words to generate")
+var generate_base = flag.String("generate-base", "", "Base sentence to generate off of, don't set to generate off of nothing")
+
+var _ = flag.Bool("help", false, "Print help")
+
 func main() {
 	g = *NewMarkovGraph()
 	g.Init()
+	flag.Parse()
 
-	TrainFromFile("./asimovstories.txt")
-	SaveGraph("asimov.chain")
-
-	fmt.Println(SuggestWordsAfterEachOther([]string{"the"}, 5))
+	if *train_file != "" {
+		TrainFromFile(*train_file)
+	}
+	if *load_file != "" {
+		LoadGraph(*load_file)
+	}
+	if *save_file != "" {
+		SaveGraph(*save_file)
+	}
+	if *generate {
+		var words = strings.Split(*generate_base, " ")
+		fmt.Println(strings.Join(SuggestWordsAfterEachOther(words, *generate_num), " "))
+	}
 }
