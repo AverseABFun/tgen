@@ -1,0 +1,452 @@
+"I did what you did, John. I introduced the bugger factor. I adjusted matters in accordance with intuition—and that's
+how the machine won the war."
+Swift leaned back in the chair and stretched his legs out before him. "Such revelations. It turns out then that the
+material handed me to guide me in my decision-making capacity was a man-made interpretation of man-made data. Isn't that
+right?"
+"It looks so," said Jablonsky.
+"Then I perceive I was correct in not placing too much reliance upon it," said Swift.
+"You didn't?" Jablonsky, despite what he had just said, managed to look professionally insulted.
+"I'm afraid I didn't. Multivac might seem to say, Strike here, not there; do this, not that; wait, don't act. But I could
+never be certain that what Multivac seemed to say, it really did say; or what it really said, it really meant. I could never be
+certain."
+"But the final report was always plain enough, sir," said Jablonsky.
+"To those who did not have to make the decision, perhaps. Not to me. The horror of the responsibility of such decisions
+was unbearable and not even Multivac was sufficient to remove the weight. But the point is I was justified in doubting and
+there is tremendous relief in that."
+Caught up in the conspiracy of mutual confession, Jablonsky put titles aside, "What was it you did then, Lamar? After all,
+you did make decisions. How?"
+"Well, it's time to be getting back perhaps but—I'll tell you first. Why not? I did make use of a computer, Max, but an
+older one than Multivac, much older."
+He groped in his own pocket for cigarettes, and brought out a package along with a scattering of small change; old-
+fashioned coins dating to the first years before the metal shortage had brought into being a credit system tied to a computer-
+complex.
+Swift smiled rather sheepishly. "I still need these to make money seem substantial to me. An old man finds it hard to
+abandon the habits of youth." He put a cigarette between his lips and dropped the coins one by one back into his pocket.
+He held the last coin between his fingers, staring absently at it. "Multivac is not the first computer, friends, nor the best-
+known, nor the one that can most efficiently lift the load of decision from the shoulders of the executive. A machine did win
+the war, John; at least a very simple computing device did; one that I used every time I had a particularly hard decision to
+make."
+With a faint smile of reminiscence, he flipped the coin he held. It glinted in the air as it spun and came down in Swift's
+outstretched palm. His hand closed over it and brought it down on the back of his left hand. His right hand remained in place,
+hiding the coin.
+"Heads or tails, gentlemen?" said Swift.
+MySon,the Physicist
+Her hair was light apple-green in color, very subdued, very old-fashioned. You could see she had a delicate hand with
+the dye, the way they did thirty years ago, before the streaks and stipples came into fashion.
+She had a sweet smile on her face, too, and a calm look that made something serene out of elderliness.
+And, by comparison, it made something shrieking out of the confusion that enfolded her in the huge government
+building.
+A girl passed her at a half-run, stopped and turned toward her with a blank stare of astonishment. "How did you
+get in?"
+The woman smiled. "I'm looking for my son, the physicist."
+"Your son, the—"
+"He's a communications engineer, really. Senior Physicist Gerard Cremona."
+"Dr. Cremona. Well, he's— Where's your pass?"
+"Here it is. I'm his mother."
+"Well, Mrs. Cremona, I don't know. I've got to— His office is down there. You just ask someone." She passed on,
+running.
+Mrs. Cremona shook her head slowly. Something had happened, she supposed. She hoped Gerard was all right.
+She heard voices much farther down the corridor and smiled happily. She could tell Gerard's.
+She walked into the room and said, "Hello, Gerard."
+Gerard was a big man, with a lot of hair still and the gray just beginning
+Copyright © 1962 by Hoffman Electronics Corporation.
+to show because he didn't use dye. He said he was too busy. She was very proud of him and the way he looked.
+Right now, he was talking volubly to a man in army uniform. She couldn't tell the rank, but she knew Gerard could handle
+him.
+Gerard looked up and said, "What do you— Mother! What are you doing here?"
+"I was coming to visit you today."
+"Is today Thursday? Oh Lord, I forgot. Sit down, Mother, I can't talk now. Any seat. Any seat. Look, General."
+General Reiner looked over his shoulder and one hand slapped against the other in the region of the small of his back.
+"Your mother?"
+"Yes."
+"Should she be here?"
+"Right now, no, but I'll vouch for her. She can't even read a thermometer so nothing of this will mean anything to her.
+Now look, General. They're on Pluto. You see? They are. The radio signals can't be of natural origin so they must originate
+from human beings, from our men. You'll have to accept that. Of all the expeditions we've sent out beyond the planetoid belt,
+one turns out to have made it. And they've reached Pluto."
+"Yes, I understand what you're saying, but isn't it impossible just the same? The men who are on Pluto now were
+launched four years ago with equipment that could not have kept them alive more than a year. That is my understanding. They
+were aimed at Ganymede and seem to have gone eight times the proper distance."
+"Exactly. And we've got to know how and why. They may— just—have— had—help."
+"What kind? How?"
+Cremona clenched his jaws for a moment as though praying inwardly. "General," he said, "I'm putting myself out
+on a limb but it is just barely possible non-humans are involved. Extra-terrestrials. We've got to find out. We don't know
+how long contact can be maintained."
+"You mean" (the General's grave face twitched into an almost-smile) "they may have escaped from custody and
+they may be recaptured again at any time."
+"Maybe. Maybe. The whole future of the human race may depend on our knowing exactly what we're up against.
+Knowing it now."
+"All right. What is it you want?"
+"We're going to need Army's Multivac computer at once. Rip out every problem it's working on and start programing
+our general semantic problem. Every communications engineer you have must be pulled off anything he's on and placed
+into coordination with our own."
+"But why? I fail to see the connection."
+A gentle voice interrupted. "General, would you like a piece of fruit? I brought some oranges."
+Cremona said, "Mother! Please! Later! General, the point is a simple one. At the present moment Pluto is just under four
+billion miles away. It takes six hours for radio waves, traveling at the speed of light, to reach from here to there. If we say
+something, we must wait twelve hours for an answer. If they say something and we miss it and say 'what' and they repeat—
+bang, goes a day."
+"There's no way to speed it up?" said the General.
+"Of course not. It's the fundamental law of communications. No information can be transmitted at more than the speed
+of light. It will take months to carry on the same conversation with Pluto that would take hours between the two of us right
+now."
+"Yes, I see that. And you really think extra-terrestrials are involved?"
+"I do. To be honest, not everyone here agrees with me. Still, we're straining every nerve, every fiber, to devise some
+method of concentrating communication. We must get in as many bits per second as possible and pray we get what we need
+before we lose contact. And there's where I need Multivac and your men. There must be some communications strategy we
+can use that will reduce the number of signals we need send out. Even an increase of ten percent in efficiency can mean
+perhaps a week of time saved."
+The gentle voice interrupted again. "Good grief, Gerard, are you trying to get some talking done?"
+"Mother! Please!"
+"But you're going about it the wrong way. Really."
+"Mother." There was a hysterical edge to Cremona's voice.
+"Well, all right, but if you're going to say something and then wait twelve hours for an answer, you're silly. You
+shouldn't."
+The General snorted. "Dr. Cremona, shall we consult—"
+"Just one moment, General," said Cremona. "What are you getting at, Mother?"
+"While you're waiting for an answer," said Mrs. Cremona, earnestly, "just keep on transmitting and tell them to do the
+same. You talk all the time and they talk all the time. You have someone listening all the time and they do, too. If either one
+of you says anything that needs an answer, you can slip one in at your end, but chances are, you'll get all you need without
+asking."
+Both men stared at her.
+Cremona whispered, "Of course. Continuous conversation. Just twelve hours out of phase, that's all. God, we've got to
+get going."
+He strode out of the room, virtually dragging the General with him, then strode back in.
+"Mother," he said, "if you'll excuse me, this will take a few hours, I think. I'll send in some girls to talk to you. Or take a
+nap, if you'd rather."
+"I'll be all right, Gerard," said Mrs. Cremona.
+"Only, how did you think of this, Mother? What made you suggest this?"
+"But, Gerard, all women know it. Any two women—on the video-phone, or on the stratowire, or just face to face—
+know that the whole secret to spreading the news is, no matter what, to Just Keep Talking."
+Cremona tried to smile. Then, his lower lip trembling, he turned and left.
+Mrs. Cremona looked fondly after him. Such a fine man, her son, the physicist. Big as he was and important as he
+was, he still knew that a boy should always listen to his mother.
+EyesDoMorethanSee
+After hundreds of billions of years, he suddenly thought of himself as Ames. Not the wavelength combination which, through
+all the universe was now the equivalent of Ames— but the sound itself. A faint memory came back of the sound waves he no longer
+heard and no longer could hear.
+The new project was sharpening his memory for so many more of the old, old, eons-old things. He flattened the energy vortex
+that made up the total of his individuality and its lines of force stretched beyond the stars.
+Brock's answering signal came.
+Surely, Ames thought, he could tell Brock. Surely he could tell somebody.
+Brock's shifting energy pattern communed, "Aren't you coming, Ames?"
+"Of course."
+"Will you take part in the contest?"
+"Yes!" Ames's lines of force pulsed erratically. "Most certainly. I have thought of a whole new art-form. Something really
+unusual."
+"What a waste of effort! How can you think a new variation can be thought of after two hundred billion years. There can be
+nothing new."
+For a moment Brock shifted out of phase and out of communion, so that Ames had to hurry to adjust his lines of force. He
+caught the drift of other-thoughts as he did so, the view of the powdered galaxies against the velvet of nothingness, and the lines of
+force pulsing in endless multitudes of energy-life, lying between the galaxies.
+Ames said, "Please absorb my thoughts, Brock. Don't close out. I've thought of manipulating Matter. Imagine! A symphony of
+Matter. Why
+Copyright © 1965 by Mercury Press, Inc.
+bother with Energy. Of course, there's nothing new in Energy; how can there be? Doesn't that show we must deal with
+Matter?"
+"Matter!"
+Ames interpreted Brock's energy-vibrations as those of disgust.
+He said, "Why not? We were once Matter ourselves back—back— Oh, a trillion years ago anyway! Why not build up objects
+in a Matter medium, or abstract forms or—listen, Brock—why not build up an imitation of ourselves in Matter, ourselves as we used
+to be?"
+Brock said, "I don't remember how that was. No one does."
+"I do," said Ames with energy, "I've been thinking of nothing else and I am beginning to remember. Brock, let me show
+you. Tell me if I'm right. Tell me."
+"No. This is silly. It's—repulsive."
+"Let me try, Brock. We've been friends; we've pulsed energy together from the beginning—from the moment we became
+what we are. Brock, please!"
+"Then, quickly."
+Ames had not felt such a tremor along his own lines of force in—well, in how long? If he tried it now for Brock and it worked,
+he could dare manipulate Matter before the assembled Energy-beings who had so drearily waited over the eons for something new.
+The Matter was thin out there between the galaxies, but Ames gathered it, scraping it together over the cubic light-years,
+choosing the atoms, achieving a clayey consistency and forcing matter into an ovoid form that spread out below.
+"Don't you remember, Brock?" he asked softly. "Wasn't it something like this?"
+Brock's vortex trembled in phase. "Don't make me remember. I don't remember."
+"That was the head. They called it the head. I remember it so clearly, I want to say it. I mean with sound." He waited, then
+said, "Look, do you remember that?"
+On the upper front of the ovoid appeared HEAD.
+"What is that?" asked Brock.
+"That's the word for head. The symbols that meant the word in sound. Tell me you remember, Brock!"
+"There was something," said Brock hesitantly, "something in the middle." A vertical bulge formed.
+Ames said, "Yes! Nose, that's it!" And NOSE appeared upon it. "And those are eyes on either side," LEFT EYE—
+RIGHT EYE.
+Ames regarded what he had formed, his lines of force pulsing slowly. Was he sure he liked this?
+"Mouth," he said, in small quiverings, "and chin and Adam's apple, and
+the collarbones. How the words come back to me." They appeared on the form.
+Brock said, "I haven't thought of them for hundreds of billions of years. Why have you reminded me? Why?"
+Ames was momentarily lost in his thoughts, "Something else. Organs to hear with; something for the sound waves. Ears!
+Where do they go? I don't remember where to put them!"
+Brock cried out, "Leave it alone! Ears and all else! Don't remember!"
+Ames said, uncertainly, "What is wrong with remembering?"
+"Because the outside wasn't rough and cold like that but smooth and warm. Because the eyes were tender and alive and the
+lips of the mouth trembled and were soft on mine." Brock's lines of force beat and wavered, beat and wavered.
+Ames said, "I'm sorry! I'm sorry!"
+"You're reminding me that once I was a woman and knew love; that eyes do more than see and I have none to do it for me."
+With violence, she added matter to the rough-hewn head and said, "Then let them do it" and turned and fled.
+And Ames saw and remembered, too, that once he had been a man. The force of his vortex split the head in two and he fled
+back across the galaxies on the energy-track of Brock— back to the endless doom of life.
+And the eyes of the shattered head of Matter still glistened with the moisture that Brock had placed there to represent tears.
+The head of Matter did that which the energy-beings could do no longer and it wept for all humanity, and for the fragile beauty of
+the bodies they had once given up, a trillion years ago.
+Segregationist
+The surgeon looked up without expression. "Is he ready?"
+"Ready is a relative term," said the med-eng. "We're ready. He's restless."
+"They always are. . . . Well, it's a serious operation."
+"Serious or not, he should be thankful. He's been chosen for it over an enormous number of possibles and frankly, I don't
+think . . ."
+"Don't say it," said the surgeon. "The decision is not ours to make."
+"We accept it. But do we have to agree?"
+"Yes," said the surgeon, crisply. "We agree. Completely and wholeheartedly. The operation is entirely too intricate to approach
+with mental reservations. This man has proven his worth in a number of ways and his profile is suitable for the Board of Mortality."
+"All right," said the med-eng, unmollified.
+The surgeon said, "I'll see him right in here, I think. It is small enough and personal enough to be comforting."
+"It won't help. He's nervous, and he's made up his mind."
+"Has he indeed?"
+"Yes. He wants metal; they always do."
+The surgeon's face did not change expression. He stared at his hands. "Sometimes one can talk them out of it."
+"Why bother?" said the med-eng, indifferently. "If he wants metal, let it be metal."
+"You don't care?"
+"Why should I?" The med-eng said it almost brutally. "Either way it's a
+Copyright © 1968 by Isaac Asimov.
+medical engineering problem and I'm a medical engineer. Either way, I can handle it. Why should I go beyond that?"
+The surgeon said stolidly, "To me, it is a matter of the fitness of things."
+"Fitness! You can't use that as an argument. What does the patient care about the fitness of things?"
+"I care."
+"You care in a minority. The trend is against you. You have no chance."
+"I have to try." The surgeon waved the med-eng into silence with a quick wave of his hand— no impatience to it, merely
+quickness. He had already informed the nurse and he had already been signaled concerning her approach. He pressed a small
+button and the double-door pulled swiftly apart. The patient moved inward in his motorchair, the nurse stepping briskly along
+beside him.
+"You may go, nurse," said the surgeon, "but wait outside. I will be calling you." He nodded to the med-eng, who left with the
+nurse, and the door closed behind them.
+The man in the chair looked over his shoulder and watched them go. His neck was scrawny and there were fine wrinkles about
+his eyes. He was freshly shaven and the fingers of his hands, as they gripped the arms of the chair tightly, showed manicured nails.
+He was a high-priority patient and he was being taken care of. . . . But there was a look of settled peevishness on his face.
+He said, "Will we be starting today?"
+The surgeon nodded. "This afternoon, Senator."
+"I understand it will take weeks."
+"Not for the operation itself, Senator. But there are a number of subsidiary points to be taken care of. There are some
+circulatory renovations that must be carried through, and hormonal adjustments. These are tricky things."
+"Are they dangerous?" Then, as though feeling the need for establishing a friendly relationship, but patently against his will,
+he added, ". . . doctor?"
+The surgeon paid no attention to the nuances of expression. He said, flatly, "Everything is dangerous. We take our time in
+order that it be less dangerous. It is the time required, the skill of many individuals united, the equipment, that makes such
+operations available to so few . . . "
+"I know that," said the patient, restlessly. "I refuse to feel guilty about that. Or are you implying improper pressure?"
+"Not at all, Senator. The decisions of the Board have never been questioned. I mention the difficulty and intricacy of the
+operation merely to explain my desire to have it conducted in the best fashion possible."
+"Well, do so, then. That is my desire, also."
+"Then I must ask you to make a decision. It is possible to supply you with either of two types of cyber-hearts, metal or . . ."
+"Plastic!" said the patient, irritably. "Isn't that the alternative you were going to offer, doctor? Cheap plastic. I don't want
+that. I've made my choice. I want the metal."
+"But . . ."
+"See here. I've been told the choice rests with me. Isn't that so?"
+The surgeon nodded. "Where two alternate procedures are of equal value from a medical standpoint, the choice rests with
+the patient. In actual practice, the choice rests with the patient even when the alternate procedures are not of equal value, as in
+this case."
+The patient's eyes narrowed. "Are you trying to tell me the plastic heart is superior?"
+"It depends on the patient. In my opinion, in your individual case, it is. And we prefer not to use the term, plastic. It is a
+fibrous cyber-heart."
+"It's plastic as far as I am concerned."
+"Senator," said the surgeon, infinitely patient, "the material is not plastic in the ordinary sense of the word. It is a polymeric
+material true, but one that is far more complex than ordinary plastic. It is a complex protein-like fibre designed to imitate, as
+closely as possible, the natural structure of the human heart you now have within your chest."
+"Exactly, and the human heart I now have within my chest is worn out although I am not yet sixty years old. I don't want
+another one like it, thank you. I want something better."
+"We all want something better for you, Senator. The fibrous cyber-heart will be better. It has a potential life of centuries. It
+is absolutely non-aller genie . . . "
+"Isn't that so for the metallic heart, too?"
+"Yes, it is," said the surgeon. "The metallic cyber is of titanium alloy that . . ."
+"And it doesn't wear out? And it is stronger than plastic? Or fibre or whatever you want to call it?"
+"The metal is physically stronger, yes, but mechanical strength is not a point at issue. Its mechanical strength does you no
+particular good since the heart is well protected. Anything capable of reaching the heart will kill you for other reasons even if the
+heart stands up under manhandling."
+The patient shrugged. "If I ever break a rib, I'll have that replaced by titanium, also. Replacing bones is easy. Anyone can
+have that done anytime. I'll be as metallic as I want to be, doctor."
+"That is your right, if you so choose. However, it is only fair to tell you that although no metallic cyber-heart has ever broken
+down mechanically, a number have broken down electronically."
+"What does that mean?"
+"It means that every cyber-heart contains a pacemaker as part of its structure. In the case of the metallic variety, this is an
+electronic device that keeps the cyber in rhythm. It means an entire battery of miniaturized equip-
+ment must be included to alter the heart's rhythm to suit an individual's emotional and physical state. Occasionally something
+goes wrong there and people have died before that wrong could be corrected."
+"I never heard of such a thing."
+"I assure you it happens."
+"Are you telling me it happens often?"
+"Not at all. It happens very rarely."
+"Well, then, I'll take my chance. What about the plastic heart? Doesn't that contain a pacemaker?"
+"Of course it does, Senator. But the chemical structure of a fibrous cyber-heart is quite close to that of human tissue. It can
+respond to the ionic and hormonal controls of the body itself. The total complex that need be inserted is far simpler than in the
+case of the metal cyber."
+"But doesn't the plastic heart ever pop out of hormonal control?"
+"None has ever yet done so."
+"Because you haven't been working with them long enough. Isn't that so?"
+The surgeon hesitated. "It is true that the fibrous cybers have not been used nearly as long as the metallic."
+"There you are. What is it anyway, doctor? Are you afraid I'm making myself into a robot . . . into a Metallo, as they call
+them since citizenship went through?"
+"There is nothing wrong with a Metallo as a Metallo. As you say, they are citizens. But you're not a Metallo. You're a human
+being. Why not stay a human being?"
+"Because I want the best and that's a metallic heart. You see to that."
+The surgeon nodded. "Very well. You will be asked to sign the necessary permissions and you will then be fitted with a metal
+heart."
+"And you'll be the surgeon in charge? They tell me you're the best."
+"I will do what I can to make the changeover an easy one."
+The door opened and the chair moved the patient out to the waiting nurse.
+The med-eng came in, looking over his shoulder at the receding patient until the doors had closed again.
+He turned to the surgeon. "Well, I can't tell what happened just by looking at you. What was his decision?"
+The surgeon bent over his desk, punching out the final items for his records. "What you predicted. He insists on the metallic
+cyber-heart."
+"After all, they are better."
+"Not significantly. They've been around longer; no more than that. It's this mania that's been plaguing humanity ever since
+Metallos have become citizens. Men have this odd desire to make Metallos out of themselves.
+F
+They yearn for the physical strength and endurance one associates with them."
+"It isn't one-sided, doc. You don't work with Metallos but I do; so I know. The last two who came in for repairs have asked for
+fibrous elements."
+"Did they get them?"
+"In one case, it was just a matter of supplying tendons; it didn't make much difference there, metal or fibre. The other
+wanted a blood system or its equivalent. I told him I couldn't; not without a complete rebuilding of the structure of his body in
+fibrous material. . . . I suppose it will come to that some day. Metallos that aren't really Metallos at all, but a kind of flesh and
+blood."
+"You don't mind that thought?"
+"Why not? And metallized human beings, too. We have two varieties of intelligence on Earth now and why bother with
+two. Let them approach each other and eventually we won't be able to tell the difference. Why should we want to? We'd
+have the best of both worlds; the advantages of man combined with those of robot."
+"You'd get a hybrid," said the surgeon, with something that approached fierceness. "You'd get something that is not both, but
+neither. Isn't it logical to suppose an individual would be too proud of his structure and identity to want to dilute it with something
+alien? Would he want mongrelization?"
+"That's segregationist talk."
+"Then let it be that." The surgeon said with calm emphasis, "I believe in being what one is. I wouldn't change a bit of my
+own structure for any reason. If some of it absolutely required replacement, I would have that replacement as close to the
+original in nature as could possibly be managed. I am myself; well pleased to be myself; and would not be anything else."
+He had finished now and had to prepare for the operation. He placed his strong hands into the heating oven and let them
+reach the dull red-hot glow that would sterilize them completely. For all his impassioned words, his voice had never risen, and
+on his burnished metal face there was (as always) no sign of expression.
+I Just Make Them Up, See!
+Oh, Dr. A. —
+Oh, Dr. A. —
+There is something (don't go 'way)
+That I'd like to hear you say.
+Though I'd rather die
+Than try
+To pry,
+The fact, you'll find,
+Is that my mind
+Has evolved the jackpot question for today.
+I intend no cheap derision,
+So please answer with decision,
+And, discarding all your petty cautious fears,
+Tell the secret of your vision!
+How on earth
+Do you give birth
+To those crazy and impossible ideas?
+Is it indigestion
+And a question
+Of the nightmare that results?
+Of your eyeballs whirling,
+Copyright ® 1957 by Fantasy House, Inc.
+Twirling,
+Fingers curling
+And unfurling,
+While your blood beats maddened chimes
+As it keeps impassioned times
+With your thick, uneven pulse?
+Is it that, you think, or liquor
+That brings on the wildness quicker?
+For a teeny
+Weeny
+Dry martini
+May be just your private genie;
+Or perhaps those Tom and ferries
+You will find the very
+Berries
+For inducing
+And unloosing
+That weird gimmick or that kicker;
+Or an awful
+Combination
+Of unlawful
+Stimulation,
+Marijuana plus tequila,
+That will give you just that feel o'
+Things a-clicking
+And unsticking
+As you start your cerebration
+To the crazy syncopation
+Of a brain a-tocking-ticking.
+Surely something, Dr. A., Makes you fey And quite outrt. Since I read you with devotion, Won't you give me just a
+notion Of that shrewdly pepped-up potion Out of which emerge your plots? That wild secret bubbly mixture That has made
+you such a fixture In most favored s.f. spots—
+Now, Dr. A., Don't go away—
+Oh, Dr. A. — Oh, Dr. A. —
+RejectionSlips
+a—Learned
+Dear Asimov, all mental laws Prove orthodoxy has its flaws. Consider that eclectic clause In Kant's philosophy that gnaws
+With ceaseless anti-logic jaws At all outworn and useless saws That stick in modern mutant craws. So here's your tale (with
+faint applause). The words above show ample cause.
+b—Gruff
+Dear Ike, I was prepared
+(And, boy, I really cared) To swallow almost anything you wrote.
+But, Ike, you're just plain shot,
+Your writing's gone to pot, There's nothing left but hack and mental bloat.
+Take back this piece of junk;
+It smelled; it reeked; it stunk; Just glancing through it once was deadly rough.
+But Ike, boy, by and by,
+Copyright © 1959 by Isaac Asiniov.
+Just try another try. I need some yams and, kid, I love your stuff.
+c—Kindly
+Dear Isaac, friend of mine,
+I thought your tale was fine.
+Just frightful-
+Ly delightful
+And with merits all a-shine.
+It meant a quite full
+Night, full,
+Friend, of tension
+Then relief
+And attended
+With full measure
+Of the pleasure
+Of suspended
+Disbelief.
+It is triteful,
+Scarcely rightful,
+Almost spiteful
+To declare
+That some tiny faults are there.
+Nothing much,
+Perhaps a touch,
+And over such
+You shouldn't pine.
+So let me say
+Without delay,
+My pal, my friend,
+Your story's end
+Has left me gay
+And joyfully composed.
+P. S.
+Oh, yes,
+I must confess
+(With some distress)
+Your story is regretfully enclosed.
+ABOUT THE AUTHOR
+Isaac Asimov was born in the Soviet Union to his great surprise. He moved quickly to correct the situation. When his
+parents emigrated to the United States, Isaac (three years old at the time) stowed away in their baggage. He has been an
+American citizen since the age of eight.
+Brought up in Brooklyn, and educated in its public schools, he eventually found his way to Columbia University and,
+over the protests of the school administration, managed to annex a series of degrees in chemistry, up to and including a
+Ph.D. He then infiltrated Boston University and climbed the academic ladder, ignoring all cries of outrage, until he found
+himself Professor of Biochemistry.
+Meanwhile, at the age of nine, he found the love of his life (in the inanimate sense) when he discovered his first
+science-fiction magazine. By the time he was eleven, he began to write stories, and at eighteen, he actually worked up
+the nerve to submit one. It was rejected. After four long months of tribulation and suffering, he sold his first story and,
+thereafter, he never looked back.
+In 1941, when he was twenty-one years old, he wrote the classic short story "Nightfall" and his future was
+assured. Shortly before that he had begun writing his robot stories, and shortly after that he had begun his Foundation
+series.
+What was left except quantity? At the present time, he has published over 440 books, distributed through every
+major division of the Dewey system of library classification, and shows no signs of slowing up. He remains as youthful, as
+lively, and as lovable as ever, and grows more handsome with each year. You can be sure that this is so since he has written
+this little essay himself and his devotion to absolute objectivity is notorious.
+He is married to Janet Jeppson, psychiatrist and writer, has two children by a previous marriage, and lives in New
+York City.

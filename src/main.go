@@ -21,6 +21,10 @@ type MarkovGraph struct {
 func (mg *MarkovGraph) Init() {
 	mg.data = make(map[int64]string, 5000)
 	mg.data2 = make(map[int64]int64, 5000)
+
+	var node = mg.NewNode()
+	ROOT_NODE = mg.NewNode().ID()
+	mg.AddNode(node)
 }
 
 func (mg *MarkovGraph) SetData(id int64, data string) {
@@ -499,6 +503,8 @@ func main() {
 	g = *NewMarkovGraph()
 	g.Init()
 
-	LoadGraph("./question.chain")
-	fmt.Println(SuggestWordsAfterEachOther([]string{}, 10))
+	TrainFromFile("./asimovstories.txt")
+	SaveGraph("asimov.chain")
+
+	fmt.Println(SuggestWordsAfterEachOther([]string{"the"}, 5))
 }
